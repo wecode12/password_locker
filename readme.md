@@ -2,8 +2,7 @@
 
 Joselyne 
 
-##  Description:
-
+##  Description
 Password Locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various accounts.
 
 ### User Stories
@@ -15,7 +14,8 @@ To create an account with my details - log in and password
 Store my existing login credentials
 Generate a password for a new credential/account
 Copy my credentials to the clipboard
-Specifications
+#### Specifications
+
 Behaviour	Input	Output
 Display codes for navigation	In terminal: $./password_locker.py	Welcome, choose an option: ca-Create Account, li-Log In, ex-Exit
 Display prompt for creating an account	Enter: ca	Enter your your full name and password
@@ -34,17 +34,16 @@ xclip
 Cloning
 In your terminal:
 
-  
+  $ cd Password-Locker
 ### Running the Application
 To run the application, in your terminal:
 
-  $ chmod +x password_locker.py
-  $ ./password_locker.py
+  $ python 3.6 run.py
 ##  Testing the Application
 To run the tests for the class file:
 
-  $ python3.6 user_credentials_test.py
+  $ python3.6 user_test.py
 ##### Technologies Used
 Python3.6
-## License
+License
 MIT ©2019 wecode12
