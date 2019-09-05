@@ -33,8 +33,7 @@ xclip
 Cloning
 In your terminal:
 
-  $ git clone https://github.com/marynganga/Password-Locker/
-  $ cd Password-Locker
+  
 ### Running the Application
 To run the application, in your terminal:
 
