@@ -44,6 +44,6 @@ To run the tests for the class file:
 
   $ python3.6 user_test.py
 ##### Technologies Used
-Python3.6
-License
+Python3.6:
+## License
 MIT ©2019 wecode12
